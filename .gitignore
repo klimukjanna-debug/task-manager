@@ -1,0 +1,17 @@
+out/
+bin/
+*.class
+
+tasks.txt
+tasks.txt.tmp
+
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+.DS_Store
+Thumbs.db
